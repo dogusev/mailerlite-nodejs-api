@@ -1,4 +1,4 @@
-var $apiKey = '2cf51f2d9681f009556a5d3a6e2e662e';
+var $apiKey = '';
 /* ML Subscribers API */
 var Mailerlite = require('./index');
 var mailerlite = new Mailerlite($apiKey);
