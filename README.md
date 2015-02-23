@@ -51,7 +51,7 @@ $ML_Subscribers.setId('ID').add($subscriber, 1 ,function(r){
     console.log(r);
 });
 ```
- ### ML CAMPAINGNS API  
+### ML CAMPAINGNS API  
 ```sh
 $ML_Campaigns.setId('ID').getJunk(false, function (r) {
     console.log(r);
@@ -86,7 +86,7 @@ $ML_Campaigns.getAll(false, function (r) {
 });
 ```
 
- ### ML LISTS API  
+### ML LISTS API  
 ```sh
 $ML_lists.setId('ID').getBounced(false,function (r) {
     console.log('getBounced', r);
