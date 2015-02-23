@@ -1,0 +1,28 @@
+{
+    "name": "mailerlite nodejs api",
+    "description": "Unofficial NodeJS wrapper for MailerLite API",
+    "version": "0.0.1",
+    "author": {
+        "name": "Dmitriy Gusev",
+        "email": "d.o.gusev@gmail.com"
+    },
+    "dependencies": {
+        "request": "*",
+        "underscore": "*"
+    },
+    "devDependencies": {
+    },
+    "keywords": [
+        "mailerlite",
+        "rest",
+        "restful",
+        "api"
+    ],
+    "main": "index",
+    "engines": {
+        "node": "*"
+    },
+    "readme": "Mailerlite API wrapper port from PHP",
+    "readmeFilename": "Readme.md",
+    "_id": "mailerlite-nodejs-api@0.0.1"
+}
