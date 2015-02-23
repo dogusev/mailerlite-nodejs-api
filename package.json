@@ -1,7 +1,7 @@
 {
-    "name": "mailerlite nodejs api",
+    "name": "mailerlite-nodejs-api",
     "description": "Unofficial NodeJS wrapper for MailerLite API",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "author": {
         "name": "Dmitriy Gusev",
         "email": "d.o.gusev@gmail.com"
@@ -11,6 +11,10 @@
         "underscore": "*"
     },
     "devDependencies": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dogusev/mailerlite-nodejs-api"
     },
     "keywords": [
         "mailerlite",

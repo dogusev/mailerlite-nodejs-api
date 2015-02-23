@@ -1,6 +1,9 @@
 # mailerlite-nodejs-api
 Mailerlite API wrapper for node js
-
+### Install
+```sh
+npm install mailerlite-nodejs-api
+```
 ### Usage
 ```sh
 var $apiKey = 'apikey';
