@@ -1,10 +1,6 @@
 # mailerlite-nodejs-api
 Mailerlite API wrapper for node js
 
-# mailerlite nodejs api
-
-Unofficial NodeJS wrapper for MailerLite API
-
 ### Usage
 ```sh
 var $apiKey = 'apikey';
